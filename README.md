@@ -1,15 +1,15 @@
 # 📱 PEMOGRAMAN MOBILE LANJUTAN
-**Siti Nurhaliza**  
-**2201094020**
+👤 **Siti Nurhaliza**  
+🆔 **2201094020**
 
 ---
 
-### 🗓 PERTEMUAN 2  
-**Senin, 26 Agustus 2024**
+### 🌟 PERTEMUAN 2  
+📅 **Senin, 26 Agustus 2024**
 
-## 📚 Materi
+## 🎯 Materi
 ### A. SQLite
-1. **🔹 POINT:**
+1. **✨ POINTS:**
    - Mengelola database dengan efisien menggunakan `SQLiteOpenHelper`.
    - Memanfaatkan `Cursor` untuk membaca dan menyimpan data dari tabel SQLite.
    - Menggunakan `Context` secara optimal untuk inisialisasi dan pengelolaan database dalam aplikasi.
@@ -18,4 +18,4 @@
    - Menggunakan `FloatingActionButton (FAB)` untuk akses cepat dalam aplikasi.
 
 2. **📝 TUGAS:**
-   - Mengupdate dan menghapus data di tabel SQLite secara efektif.
+   - **Advanced Data Operations**: Mengupdate dan menghapus data di tabel SQLite dengan pendekatan yang efektif dan efisien.
