@@ -18,4 +18,4 @@
    - Menggunakan `FloatingActionButton (FAB)` untuk akses cepat dalam aplikasi.
 
 2. **📝 TUGAS:**
-   - **Advanced Data Operations**: Mengupdate dan menghapus data di tabel SQLite dengan pendekatan yang efektif dan efisien.
+   - Mengupdate dan menghapus data di tabel SQLite dengan pendekatan yang efektif dan efisien.
